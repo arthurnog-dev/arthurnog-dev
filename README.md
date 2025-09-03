@@ -1,4 +1,4 @@
-# 🤟 Arthur Nogueira  
+# 🧑‍💻 | Arthur Nogueira  
 
 **`Estudante de Desenvolvimento Fullstack`**  
 
@@ -22,13 +22,7 @@ Gosto de resolver problemas e criar soluções práticas que gerem impacto posit
 
 ## 🚀 Projetos em Destaque  
 
-🔗 Aqui alguns repositórios que mostram meu aprendizado e evolução:  
-
-<!--
-- [**Projeto 1**](https://github.com/arthurnog-dev/projeto1) – breve descrição do que faz  
-- [**Projeto 2**](https://github.com/arthurnog-dev/projeto2) – breve descrição do que faz  
-- [**Projeto 3**](https://github.com/arthurnog-dev/projeto3) – breve descrição do que faz  
--->
+🔗 Em construção 🥲:  
  
 
 ---
