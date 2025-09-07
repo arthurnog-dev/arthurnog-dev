@@ -3,32 +3,52 @@
 **`Estudante de Desenvolvimento Fullstack`**  
 
 Me chamo **Arthur Nogueira**, sou apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente estudo **Front-End e Back-End**, com foco em **aplicações Fullstack**.  
+Atualmente estudo **programação Fullstack**, com foco em linguagens versáteis como **Python** e **JavaScript**.  
 Gosto de resolver problemas e criar soluções práticas que gerem impacto positivo.
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+
+---
 
 ## 📌 Sobre Mim  
 
-- 🌱 Atualmente aprendendo **HTML, CSS e JavaScript**  
+- 🌱 Atualmente aprendendo **Python** e **JavaScript**  
+- 🧠 Estudando fundamentos sólidos de programação  
 - 🎯 Objetivo: me tornar **Desenvolvedor Fullstack**  
-- 🚀 Aberto a colaborações em projetos de **Front-End e Back-End**
+- 🤝 Aberto a colaborações em projetos de **Front-End e Back-End**
 
-
+---
 
 ## 🚀 Projetos em Destaque  
 
-🔗 Em construção 🥲:  
- 
+🔗 Em construção 🥲
 
 ---
 
 ## 🤖 Linguagens e Tecnologias
 
+
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"    
+/>
+
+<img 
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"    
+/>
 
 <img 
     align="left"
@@ -50,15 +70,6 @@ Gosto de resolver problemas e criar soluções práticas que gerem impacto posit
 
 <img 
     align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"    
-/>
-
-<img 
-    align="left"
     alt="React"
     title="React"
     width="30px"
@@ -66,21 +77,12 @@ Gosto de resolver problemas e criar soluções práticas que gerem impacto posit
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"    
 />
 
-<img 
-    align="left"
-    alt="Tailwind"
-    title="Tailwind"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"    
-/>
-
 <br>
 <br>
- 
---- 
 
-### 🤖 Estatísticas
+---
+
+### 📊 Estatísticas GitHub
 
 <img 
     align="left"
@@ -92,7 +94,7 @@ Gosto de resolver problemas e criar soluções práticas que gerem impacto posit
 
 <img 
     align="left"
-    alt="Github Stats"
+    alt="Top Languages"
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnog-dev&theme=github_dark&custom_title=Tecnologias"    
@@ -103,10 +105,3 @@ Gosto de resolver problemas e criar soluções práticas que gerem impacto posit
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurnog-dev/arthurnog-dev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthurnog-dev/arthurnog-dev/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-
-
-
