@@ -97,7 +97,7 @@ Gosto de resolver problemas e criar soluções práticas que gerem impacto posit
     alt="Top Languages"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnog-dev&theme=github_dark&custom_title=Tecnologias"    
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnog-dev&layout=compact&theme=github_dark&custom_title=Tecnologias"    
 />
 
 <picture>
